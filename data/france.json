@@ -1,0 +1,25 @@
+{
+  "nom": "France",
+  "ips_moyen": 104.24592626554113,
+  "delinquance": {
+    "Cambriolages de logement": 3.1508507052112287,
+    "Destructions et dégradations volontaires": 8.548386309894282,
+    "Escroqueries et fraudes aux moyens de paiement": 6.766532862443146,
+    "Trafic de stupéfiants": 1.0063705975526032,
+    "Usage de stupéfiants": 5.471284047198254,
+    "Usage de stupéfiants (AFD)": 3.2679757730055603,
+    "Violences physiques hors cadre familial": 3.466939647082179,
+    "Violences physiques intrafamiliales": 3.6956102635211803,
+    "Violences sexuelles": 1.8493989800716804,
+    "Vols avec armes": 0.11845888133929093,
+    "Vols d'accessoires sur véhicules": 1.4984314896140836,
+    "Vols dans les véhicules": 4.144018064519082,
+    "Vols de véhicule": 1.9714919939927975,
+    "Vols sans violence contre des personnes": 11.859237713016038,
+    "Vols violents sans arme": 0.9588218848848902
+  },
+  "delinquance_totale": 57.7738092133463,
+  "population": 62595318.0,
+  "revenu_median": 23080.0,
+  "taux_pauvrete": 14.9
+}
